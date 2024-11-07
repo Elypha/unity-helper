@@ -1,0 +1,19 @@
+{
+    "name":"Elypha's VPM Repo",
+    "id":"com.elypha.vpm.vpm-packages",
+    "url":"https://elypha.github.io/vpm-packages/index.json",
+    "author":{
+        "name":"Elypha",
+        "email":"i@elypha.com",
+        "url":"https://elypha.com"
+    },
+    "description":"Elypha's VPM packages.",
+    "infoLink":{
+        "url":"https://github.com/Elypha/vpm-packages",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "Elypha/MaterialBulkSwapper"
+    ]
+}

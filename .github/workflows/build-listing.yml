@@ -11,6 +11,8 @@ on:
       - main
     paths:
       - source.json
+  repository_dispatch:
+      types: [pages-rebuild]
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:

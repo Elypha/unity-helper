@@ -1,19 +1,19 @@
 {
-    "name":"Elypha's VPM Repo",
-    "id":"com.elypha.vpm.vpm-packages",
-    "url":"https://elypha.github.io/vpm-packages/index.json",
-    "author":{
-        "name":"Elypha",
-        "email":"i@elypha.com",
-        "url":"https://elypha.com"
+    "name": "Elypha's Unity Toolkit",
+    "id": "com.elypha.unity-helper",
+    "url": "https://elypha.github.io/unity-helper/index.json",
+    "author": {
+        "name": "Elypha",
+        "email": "i@elypha.com",
+        "url": "https://elypha.com"
     },
-    "description":"Elypha's VPM packages.",
-    "infoLink":{
-        "url":"https://github.com/Elypha/vpm-packages",
-        "text":"View on GitHub"
+    "description": "Explore and find useful tools for everyday Unity development. This is a curated list from packages I set up for my own projects.\nPlease feel free to raise a issue on GitHub if you have any suggestions or questions.",
+    "infoLink": {
+        "url": "https://github.com/Elypha/unity-helper",
+        "text": "Open GitHub repository"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "Elypha/vpm.material-helper"
+    "bannerUrl": "banner.jpg",
+    "githubRepos": [
+        "Elypha/unity-material-helper"
     ]
 }

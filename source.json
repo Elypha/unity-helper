@@ -7,7 +7,7 @@
         "email": "i@elypha.com",
         "url": "https://elypha.com"
     },
-    "description": "Explore and find useful tools for everyday Unity development. This is a curated list from packages I set up for my own projects.Please feel free to raise a issue on GitHub if you have any suggestions or questions.",
+    "description": "Explore and find useful tools for everyday Unity development. This is a curated list from packages I set up for my own projects.",
     "infoLink": {
         "url": "https://github.com/Elypha/unity-helper",
         "text": "Open GitHub repository"
